@@ -69,30 +69,11 @@ I thrive in environments that value **problem-solving, learning, and impact**.
 
 ---
 
-### **theCoderSchool — Programming Instructor**  
-**August 2023 – August 2024**  
-- Taught Python, HTML, and CSS to students aged 2–60+.  
-- Facilitated coding exercises and encouraged analytical thinking.
-
----
-
-### **Abercrombie & Fitch — Brand Representative**  
-**January 2022 – August 2022**  
-- Strengthened communication and customer experience skills.  
-- Adapted quickly in fast-paced environments.
-
----
-
 ## 📚 Selected Projects
 
 ### **The Missed Ride (Python, NumPy, Seaborn, Matplotlib)**  
 - Cleaned and analyzed transportation datasets to identify patterns in driver return rates.  
 - Produced clear visual insights through data visualization.  
-
-### **Social Media Blog API (Java, Spring, SQL)**  
-- Implemented secure authentication and separated access layers for maintainability.  
-- Designed and tested endpoints following industry standards.  
-- Optimized SQL queries for reliable CRUD operations.
 
 ### **MedicAi (Flask, ML, Web Dev)**  
 - Created a web tool assisting users in assessing potential skin cancer indicators.  
@@ -107,14 +88,4 @@ I thrive in environments that value **problem-solving, learning, and impact**.
 - Built a real-time system providing users with traffic insights and ETA calculations.  
 - Hosted backend on **Google Cloud VM** and processed freeway coordinate data.
 
-### **Apartment Management System (FlaskSQL, SQLAlchemy)**  
-- Developed a CRUD application for tenant and rent management with a team of four.  
-- Designed the data model and implemented backend operations.
-
 ---
-
-## 📊 GitHub Stats  
-
-```md
-![Aldriech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldriechV&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldriechV&layout=compact&theme=tokyonight)
