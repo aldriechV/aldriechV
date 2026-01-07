@@ -35,40 +35,6 @@ I thrive in environments that value **problem-solving, learning, and impact**.
 
 ---
 
-## 💼 Experience
-
-### **OCTA — IS Desktop Support Intern**  
-**July 2024 – Present**  
-- Maintained critical enterprise software systems with **99.9% uptime**.  
-- Integrated **Microsoft Power Apps** with Microsoft 365 and external systems to automate workflows.  
-- Analyzed vulnerability trends across **10,000+ devices** using Tencent VM and presented findings in Agile meetings.
-
----
-
-### **Disneyland — Image Asset Technician**  
-**August 2025 – October 2025**  
-- Supported Windows 10 → Windows 11 migration across **900+ systems** for Parks, Resorts, and Imagineering.  
-- Tracked diagnostics and deployment progress using **ServiceNow**.  
-- Collaborated with interdisciplinary teams to ensure smooth deployments.
-
----
-
-### **Revature — Backend Developer / Java Intern**  
-**February 2025 – April 2025**  
-- Built REST APIs using **Spring** with TDD methodology.  
-- Strengthened backend proficiency with Java, SQL, and API design.  
-- Applied Java algorithms to solve varied technical challenges.
-
----
-
-### **AI-Powered Dining Assistant — Full-Stack Developer**  
-**January 2024 – December 2024**  
-- Built a mobile app recommending restaurants based on allergies, budget, and travel distance.  
-- Integrated **Firebase ML**, Realtime Database, and Google App Engine.  
-- Implemented backend logic for AI-powered user queries using the **Gemini API**.
-
----
-
 ## 📚 Selected Projects
 
 ### **The Missed Ride (Python, NumPy, Seaborn, Matplotlib)**  
