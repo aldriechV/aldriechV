@@ -2,9 +2,6 @@
 **Aspiring Cloud Engineer & Software Engineer**  
 *Building reliable systems, scalable APIs, and cloud-powered solutions.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aldriech-villamor)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldriechV)
-
 ---
 
 ## 🚀 About Me
